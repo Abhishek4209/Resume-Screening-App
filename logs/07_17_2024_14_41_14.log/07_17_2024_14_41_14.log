@@ -1,0 +1,6 @@
+[ 2024-07-17 14:41:14,485 ] 19 root - INFO - logging method is started
+[ 2024-07-17 14:41:17,224 ] 27 root - INFO - Data ingestion is Started
+[ 2024-07-17 14:41:17,327 ] 31 root - INFO - Datasets read as pandas DataFrame
+[ 2024-07-17 14:41:17,441 ] 36 root - INFO - Ingestion of Data is Started
+[ 2024-07-17 14:41:17,688 ] 43 root - INFO - Ingestion of Data is Started
+[ 2024-07-17 14:41:17,689 ] 13 root - INFO - Training Data is Completed
