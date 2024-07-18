@@ -56,7 +56,7 @@ The Resume Screen App is a tool designed to automate the process of screening re
 1. **Prepare your data**: Ensure all resumes are in a single directory and the job description is in a text file.
 2. **Run the app**:
     ```streamlit run app.py
-   stre
+   streamlit run app.py
     ```
 
 ### Output Data
